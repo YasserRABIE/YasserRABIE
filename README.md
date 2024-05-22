@@ -11,7 +11,7 @@
 
 🚀 Welcome to my GitHub profile!
 I'm passionate about web development and constantly learning new things to create beautiful and functional websites. Currently,
-I'm diving deep into algorithms and data structures to strengthen my problem-solving skills.
+I'm diving deep into BACK-END development.
 
 🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions, suggestions, or just want to connect!
 
