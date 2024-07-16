@@ -25,6 +25,9 @@ Tools:
 [![Qwik](https://img.shields.io/badge/Qwik-00ADD8?style=for-the-badge&logo=qwik&logoColor=white)](https://qwik.dev/)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white)](https://gin-gonic.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 [![Website](https://img.shields.io/badge/Portfolio-yasserr.me-blue)](https://yasserr.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YasserRABIE-blue)](https://www.linkedin.com/in/yasssssser/)
