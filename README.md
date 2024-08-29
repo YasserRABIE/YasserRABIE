@@ -3,7 +3,7 @@
 # Hi there! 👋 I'm Yasser RABIE
 
 - 👀 I’m interested in making stunning websites.
-- 🌱 I’m currently learning algorithms and data structures.
+- 🌱 I’m currently learning BACK-END development.
 - 📫 How to reach me: [Visit my website](https://yasserr.me)
 - 😄 Pronouns: he/him
 
