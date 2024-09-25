@@ -31,27 +31,3 @@ Tools:
 
 [![Website](https://img.shields.io/badge/Portfolio-yasserr.me-blue)](https://yasserr.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YasserRABIE-blue)](https://www.linkedin.com/in/yasssssser/)
-
-
-# Study platform v2
-
-## Folder structure
-
-- **/public**: Contains static assets like images, fonts, favicons, etc.
-- **/src**: Main source folder containing all the code for the project.
-  - **/app**: Handles routing, layouts, and pages in Next.js (Next.js 13+ with the App Router).
-  - **/components**: Reusable UI components.
-  - **/hooks**: Custom hooks for managing logic, including Zustand-related hooks.
-  - **/stores**: Zustand stores for state management.
-  - **/utils**: Helper functions and constants.
-  - **/services**: Contains API calls and interactions with the backend.
-
-## External Libraries
-
-- **shadcn**: for UI components and styled componenets.
-
-- **Tailwind CSS**: for CSS styling.
-
-- **Zustand**: for state management (auth, etc.)
-
-- **Zod**: for forms and error handling.
