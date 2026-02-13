@@ -1,9 +1,6 @@
-![profile image](https://i.imgur.com/IwSoQLb.jpg)
-
 # Hi there! 👋 I'm Yasser RABIE
 
 - 👀 I’m interested in making stunning apps where user act not overthink.
-- 😄 Pronouns: he/him
 
 ---
 
@@ -18,6 +15,7 @@ I'm passionate about web development and constantly learning new things to creat
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 [![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=88CE02)](https://greensock.com/)
 [![Qwik](https://img.shields.io/badge/Qwik-00ADD8?style=for-the-badge&logo=qwik&logoColor=white)](https://qwik.dev/)
