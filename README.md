@@ -3,20 +3,20 @@
 # Hi there! 👋 I'm Yasser RABIE
 
 - 👀 I’m interested in making stunning websites.
-- 🌱 I’m currently learning BACK-END development.
+- 🌱 I’m currently diving deep into BACK-END development.
 - 📫 How to reach me: [Visit my website](https://yasserr.me)
 - 😄 Pronouns: he/him
 
 ---
 
 🚀 Welcome to my GitHub profile!
-I'm passionate about web development and constantly learning new things to create beautiful and functional websites. Currently,
-I'm diving deep into BACK-END development.
+I'm passionate about web development and constantly learning new things to create beautiful and functional websites. I enjoy working on full-stack projects that combine frontend creativity with backend efficiency.
 
-🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions, suggestions, or just want to connect!
+🌟 Feel free to explore my repositories, reach out for collaborations, or just connect!
 
 ---
-Tools:
+
+## Tools & Technologies
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -28,6 +28,15 @@ Tools:
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white)](https://gin-gonic.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-[![Website](https://img.shields.io/badge/Portfolio-yasserr.me-blue)](https://yasserr.me)
+---
+
+## Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YasserRABIE-blue)](https://www.linkedin.com/in/yasssssser/)
