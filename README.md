@@ -2,9 +2,7 @@
 
 # Hi there! 👋 I'm Yasser RABIE
 
-- 👀 I’m interested in making stunning websites.
-- 🌱 I’m currently diving deep into BACK-END development.
-- 📫 How to reach me: [Visit my website](https://yasserr.me)
+- 👀 I’m interested in making stunning apps where user act not overthink.
 - 😄 Pronouns: he/him
 
 ---
